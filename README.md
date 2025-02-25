@@ -16,13 +16,10 @@ Welcome to my GitHub profile! I'm passionate about **Data Science and Machine Le
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
-![Kotlin](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=kotlin&logoColor=black&style=flat-square)  
+![Kotlin](https://img.shields.io/badge/-Kotlin-F7DF1E?logo=kotlin&logoColor=black&style=flat-square)  
 
 
 ---
-
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SidArora01&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SidArora01&layout=compact&theme=radical)
 
