@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hey, Siddharth (Sid) here!
 
-<!--
-**SidArora01/SidArora01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://via.placeholder.com/1200x400)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about **Data Science and Machine Learning**, and I love working on **projects in the Healthcare industry**. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 About Me
+- 🔭 Currently studying on **Postgraduate in Data Science @ UTS (Sydney)**
+- 🌱 Learning **Deep Learning, CNNs and NLP**
+- 💡 Open to collaboration on **Hackathons and Kaggle Competitions**
+- 📫 Reach me at **([LinkedIn](https://www.linkedin.com/in/siddhartharora01/))**
+
+---
+
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
+![Kotlin](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=kotlin&logoColor=black&style=flat-square)  
+
+
+---
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SidArora01&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SidArora01&layout=compact&theme=radical)
+
+---
+
+## 🌍 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/siddhartharora01/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/your-handle)  
